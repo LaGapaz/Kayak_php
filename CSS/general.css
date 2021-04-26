@@ -1,0 +1,43 @@
+html, body, div, object, h1, h2, h3, h4, h5, h6, p, em, img, strong, ol, ul, li, article, aside, figure, figcaption,
+footer, header, section
+{
+	font-family: Arial, sans-serif;
+	color: black;
+	text-shadow: 3px, 3px, 3px, black;
+
+}
+
+h1
+{
+	text-align: center;
+	border: 2px solid black;
+	border-radius: 5%;
+	box-shadow: 2px 2px 3px;
+}
+
+h4
+{
+	text-align: center;
+}
+
+nav
+{
+	border: 2px solid black;
+	border-radius: 15%;
+	box-shadow: 2px 2px 3px;
+}
+
+/* Je sélectionne les <li> du menu horizontal */
+ul#menu_horizontal li { 
+display : inline;
+padding : 0 0.5em; /* Pour espacer les boutons entre eux */
+}
+ul#menu_horizontal {
+list-style-type : none; /* Car sinon les puces se placent n'importe où */
+}
+
+td,th
+{
+    border: 1px solid black;
+}
+			

@@ -1,0 +1,14 @@
+
+	participation_cours.php
+		- problème d'affichage
+		- problème avec le $niveau, seuls les cours "VERT" s'affiche
+
+	ajout_cours.php et ajout_voyage.php
+		- problème pour vérifier quer les dates sont correctes
+
+	bibliothèque.php
+		- ajouter le mot de passe 'root' avec UWamp
+		- laisser un blanc '' avec Wamp
+
+	affichage_planning.php
+		- problème avec la requête, " Warning: mysqli_fetch_assoc() expect parameter 1 to be mysqli_result; " ligne 29
