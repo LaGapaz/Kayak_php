@@ -1,11 +1,5 @@
 <!DOCTYPE html>
 <html lang="fr">
-<?php
-	session_start();
-	include('bibliotheque.php');
-	include('entete.php');
-
-	?>
 
 	<head>
 		<meta charset="utf-8">
